@@ -62,8 +62,8 @@ Flutter and React Native project samples.
 | Platform | Link |
 |----------|------|
 | **Email** | galangtoboali6@gmail.com |
-| **Freelancer** | freelancer.com |
-| **Fiverr** | fiverr.com |
+| **WhatsApp** | [083185716347](https://wa.me/6283185716347) |
+| **GitHub** | [github.com/lngyowfaker-ops](https://github.com/lngyowfaker-ops) |
 
 ---
 
